@@ -4,7 +4,7 @@
 - Description of The Problem
 - Description of Support Vector Machines
 - How Support Vector Machines Work
-- Actors
+- Authors
 
 
 # Description of The Problem:
@@ -32,7 +32,7 @@ minimizes errors. The choice of kernel function is crucial for performance and d
 data's characteristics.
 
 
-# Actors:
+# Authors:
 
 - Sadeem Alnfeisah
 - Lulu Altuwijri
